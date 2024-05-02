@@ -1,0 +1,19 @@
+:root {
+    --dark-grey-1: #424242;
+    --dark-grey-2: #2C2A2A;
+    --dark-grey-3: #3C3C3C;
+    --dark-grey-4: #414141;
+    --dark-grey-5: #373737;
+    --black-1: #252525;
+    --black-2: #202020;
+    --black-3: #131313;
+    --white-1: #FFFFFF;
+    --white-2: #EDEDED;
+    --white-3: #F2F2F2;
+    --white-4: #FAFAFA;
+    --yellow-1: #F9ED32;
+    --yellow-2: #FFF225;
+    --font-lato: 'Lato', sans-serif;
+    --font-poppins: 'Poppins', sans-serif;
+    --font-calibri: 'Calibri', sans-serif;
+  }
